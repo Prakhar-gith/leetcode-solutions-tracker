@@ -1,4 +1,4 @@
-// Last updated: 4/3/2025, 9:55:34 PM
+// Last updated: 4/3/2025, 9:57:50 PM
 // Algorithm:
 // 1. We observe that any valid triplet (i, j, k) with i < j < k yields a value:
 //       (nums[i] - nums[j]) * nums[k]
