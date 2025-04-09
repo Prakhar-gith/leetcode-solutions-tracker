@@ -1,4 +1,4 @@
-// Last updated: 4/9/2025, 9:00:04 PM
+// Last updated: 4/9/2025, 9:00:25 PM
 // Algorithm:
 // 1. Pehle check karo ki sabhi elements nums mein k se bade ya barabar hain, because operation ke through
 //    hum values ko sirf kam kar sakte hain. Agar koi value k se choti hai, toh answer impossible => return -1.
