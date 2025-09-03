@@ -6,6 +6,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/0037-sudoku-solver) |
 | [1917-maximum-average-pass-ratio](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1917-maximum-average-pass-ratio) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Hash Table
 |  |
@@ -30,17 +31,21 @@
 ## Math
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sorting
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
