@@ -52,4 +52,16 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
