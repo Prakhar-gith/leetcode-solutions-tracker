@@ -1,4 +1,4 @@
-// Last updated: 9/10/2025, 12:42:23 AM
+// Last updated: 9/10/2025, 1:55:31 AM
 class Solution {
     public int peopleAwareOfSecret(int n, int delay, int forget) {
         long mod = 1_000_000_007L;
