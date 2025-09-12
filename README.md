@@ -39,6 +39,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
@@ -72,4 +73,13 @@
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
