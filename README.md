@@ -17,6 +17,7 @@
 | [0037-sudoku-solver](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/0037-sudoku-solver) |
 | [1006-vowel-spellchecker](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [1006-vowel-spellchecker](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
