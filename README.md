@@ -9,6 +9,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1917-maximum-average-pass-ratio) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3462-vowels-game-in-a-string) |
@@ -93,4 +95,12 @@
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
