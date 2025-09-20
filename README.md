@@ -14,6 +14,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3797-design-spreadsheet](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -116,8 +119,14 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3827-implement-router) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Prakhar-gith/leetcode-solutions-tracker/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
