@@ -1,0 +1,12 @@
+// Last updated: 10/30/2025, 6:06:40 PM
+class Solution {
+    public int minNumberOperations(int[] target) {
+        int ops = target[ 0 ] ;
+        for ( int i =1 ; i < target.length ; i ++ ) {
+            if ( target[ i ] > target[ i- 1 ] ) {
+                ops += target[ i ] - target[ i - 1 ] ;
+            }
+        }
+        return ops ;
+    }
+}
