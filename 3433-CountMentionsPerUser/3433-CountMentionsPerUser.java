@@ -1,4 +1,4 @@
-// Last updated: 12/12/2025, 2:49:01 PM
+// Last updated: 12/13/2025, 12:30:02 AM
 1class Solution {
 2    public int[] countMentions(int numberOfUsers, List<List<String>> events) {
 3        java.util.Collections.sort(events, (a, b) -> {
@@ -31,10 +31,11 @@
 30                    for(String token : ids) {
 31                        int id= Integer.parseInt(token.substring(2));
 32                        ans[id]++;
-33                    }
-34                }
-35            }
-36        }
-37        return ans;
-38    }
-39}
+33                        
+34                    }
+35                }
+36            }
+37        }
+38        return ans;
+39    }
+40}
